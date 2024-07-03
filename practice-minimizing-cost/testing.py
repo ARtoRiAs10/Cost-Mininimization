@@ -2,7 +2,7 @@
 """
 Created on Tue Jun 18 01:41:32 2024
 
-@author: gaura
+@author: gaurav
 """
 # Installing the required libraries
 #conda install -c conda-forge tensorflow
