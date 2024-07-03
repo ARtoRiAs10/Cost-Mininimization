@@ -2,7 +2,7 @@
 """
 Created on Tue Jun 18 01:41:10 2024
 
-@author: gaura
+@author: gaurav
 """
 
 from keras.layers import Input, Dense
